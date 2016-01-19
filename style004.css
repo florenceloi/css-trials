@@ -1,0 +1,18 @@
+/* style004.css */
+
+.blacksquare {
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: black;
+
+}
+
+#firstsq {
+    margin-right: 25px;
+}
+
+#secondsq {
+    margin-left: 25px;
+}
